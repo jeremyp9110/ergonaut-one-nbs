@@ -16,7 +16,7 @@ manifest:
     - name: ergonautkb-zmk-module
       remote: ergonautkb
       revision: main
-    - prospector-zmk-module
+    - name: prospector-zmk-module
       remote: carrefinho
       revision: feat/new-status-screens
   self:
