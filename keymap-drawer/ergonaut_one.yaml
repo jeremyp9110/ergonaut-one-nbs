@@ -1,0 +1,174 @@
+layout: {zmk_keyboard: ergonaut_one}
+layers:
+  MAIN:
+  - ↹
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - ⌫
+  - {t: CLCK, h: LEFT SHIFT}
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ''''
+  - Ctrl
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - ESCAPE
+  - Gui
+  - SYM
+  - {t: ␣, h: ADJ}
+  - {t: ENTER, h: ADJ}
+  - NUM
+  - Alt
+  SYM:
+  - VOLUME UP
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ⌫
+  - {t: Caps Lock, h: LEFT SHIFT}
+  - PREVIOUS
+  - PLAY PAUSE
+  - ⏭️
+  - STOP
+  - '%'
+  - ←
+  - DOWN ARROW
+  - UP ARROW
+  - →
+  - Home
+  - Page Up
+  - VOLUME DOWN
+  - MUTE
+  - BRIGHTNESS DEC
+  - BRIGHTNESS INC
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - End
+  - PAGE DOWN
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ⌦
+  - {t: ▽, type: trans}
+  NUM:
+  - {t: KP NUM, h: Gui}
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
+  - BACKSPACE
+  - {t: '=', h: Ctrl}
+  - KP MULTIPLY
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP PLUS
+  - '-'
+  - '='
+  - '['
+  - ']'
+  - \
+  - '`'
+  - Alt
+  - KP 0
+  - KP 1
+  - KP 2
+  - KP 3
+  - KP DOT
+  - _
+  - +
+  - '{'
+  - '}'
+  - '|'
+  - '~'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ␣
+  - ⏎
+  - {type: held}
+  - {t: ▽, type: trans}
+  ADJ:
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - F11
+  - F12
+  - BT CLR
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
+  - BT 5
+  - BT 4
+  - BT 3
+  - BT 2
+  - BT 1
+  - BT CLR
+  - Boot
+  - Reset
+  - '&studio_unlock'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&studio_unlock'
+  - Reset
+  - Boot
+  - {t: ▽, type: trans}
+  - ''
+  - {type: held}
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}

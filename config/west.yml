@@ -1,0 +1,18 @@
+manifest:
+  remotes:
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
+    - name: ergonautkb
+      url-base: https://github.com/ergonautkb
+    - name: jeremyp9110
+      url-base: https://github.com/jeremyp9110
+  projects:
+    - name: zmk
+      remote: zmkfirmware
+      revision: main
+      import: app/west.yml
+    - name: ergonautkb-zmk-module
+      remote: ergonautkb
+      revision: main
+  self:
+    path: .
